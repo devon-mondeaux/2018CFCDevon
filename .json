@@ -1,6 +1,6 @@
 {    
 
-  "bowlGames": ["Rose Bowl", "Peach Bowl", "Sugar Bowl", "Cotton Bowl", "Orange Bowl", "Fiesta Bowl", "Gator Bowl", "Citrus Bowl", "Belk Bowl", "Alamo Bowl"],
+  "bowlGames": ["Rose Bowl", "AllState Bowl", "Sugar Bowl", "Cotton Bowl", "Orange Bowl", "Fiesta Bowl", "Gator Bowl", "Citrus Bowl", "Las Vegas Bowl", "Alamo Bowl"],
 
     "conferences": [{
 
@@ -639,6 +639,20 @@
             "state": "Arizona",
 
             "rival": "UA"
+          
+          }, {
+
+            "name": "BYU",
+
+            "abbreviation": "BYU",
+
+            "prestige": "110",
+
+            "state": "Utah",
+
+            "rival": "UOFU"
+
+        }, {
 
         }]
 
@@ -698,15 +712,15 @@
 
         }, {
 
-            "name": "BYU",
+            "name": "San Deigo State",
 
-            "abbreviation": "BYU",
+            "abbreviation": "SDST",
 
             "prestige": "65",
 
-            "state": "Utah",
+            "state": "California",
 
-            "rival": "UOFU"
+            "rival": "USU"
 
         }, {
 
