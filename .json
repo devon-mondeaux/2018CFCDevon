@@ -542,7 +542,7 @@
 
             "state": "Oregon",
 
-            "rival": "ORST"
+            "rival": "UOFU"
 
         }, {
 
@@ -630,7 +630,7 @@
 
         }, {
 
-            "name": "Arizona State",
+            "name": "Washington State",
 
             "abbreviation": "ASU",
 
@@ -642,17 +642,7 @@
           
           }, {
 
-            "name": "BYU",
 
-            "abbreviation": "BYU",
-
-            "prestige": "110",
-
-            "state": "Utah",
-
-            "rival": "UOFU"
-
-        }, {
 
         }]
 
@@ -712,15 +702,15 @@
 
         }, {
 
-            "name": "San Deigo State",
+            "name": "BYU",
 
-            "abbreviation": "SDST",
+            "abbreviation": "BYU",
 
-            "prestige": "65",
+            "prestige": "85",
 
-            "state": "California",
+            "state": "Utah",
 
-            "rival": "USU"
+            "rival": "UOFU"
 
         }, {
 
@@ -772,15 +762,15 @@
 
         }, {
 
-            "name": "Hawaii",
+            "name": "San Diego St",
 
-            "abbreviation": "HAW",
+            "abbreviation": "SDST",
 
             "prestige": "35",
 
-            "state": "Hawaii",
+            "state": "California",
 
-            "rival": "AFA"
+            "rival": "USU"
 
         }]
 
