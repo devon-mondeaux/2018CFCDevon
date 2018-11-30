@@ -1,6 +1,6 @@
 {    
 
-  "bowlGames": ["Rose Bowl", "AllState Bowl", "Sugar Bowl", "Cotton Bowl", "Orange Bowl", "Fiesta Bowl", "Gator Bowl", "Citrus Bowl", "Las Vegas Bowl", "Alamo Bowl"],
+  "bowlGames": ["Rose Bowl", "Great Salt Lake Bowl", "AllState Sugar Bowl", "Cotton Bowl", "Orange Bowl", "Fiesta Bowl", "Gator Bowl", "Citrus Bowl", "Las Vegas Bowl", "Alamo Bowl"],
 
     "conferences": [{
 
@@ -26,7 +26,7 @@
 
             "abbreviation": "GEO",
 
-            "prestige": "90",
+            "prestige": "95",
 
             "state": "Georgia",
 
@@ -38,7 +38,7 @@
 
             "abbreviation": "FLA",
 
-            "prestige": "85",
+            "prestige": "95",
 
             "state": "Florida",
 
@@ -122,7 +122,7 @@
 
             "abbreviation": "AUB",
 
-            "prestige": "85",
+            "prestige": "95",
 
             "state": "Alabama",
 
@@ -142,7 +142,7 @@
 
             "abbreviation": "OHI",
 
-            "prestige": "90",
+            "prestige": "95",
 
             "state": "Ohio",
 
@@ -154,7 +154,7 @@
 
             "abbreviation": "MIC",
 
-            "prestige": "90",
+            "prestige": "95",
 
             "state": "Michigan",
 
@@ -238,7 +238,7 @@
 
             "abbreviation": "PSU",
 
-            "prestige": "80",
+            "prestige": "95",
 
             "state": "Pennsylvania",
 
@@ -250,7 +250,7 @@
 
             "abbreviation": "NEB",
 
-            "prestige": "85",
+            "prestige": "75",
 
             "state": "Nebraska",
 
@@ -282,7 +282,7 @@
 
             "abbreviation": "BC",
 
-            "prestige": "99",
+            "prestige": "65",
 
             "state": "Boston",
 
@@ -610,7 +610,7 @@
 
             "abbreviation": "UOFU",
 
-            "prestige": "99",
+            "prestige": "120",
 
             "state": "Utah",
 
