@@ -26,7 +26,7 @@
 
             "abbreviation": "GEO",
 
-            "prestige": "85",
+            "prestige": "95",
 
             "state": "Georgia",
 
@@ -38,7 +38,7 @@
 
             "abbreviation": "FLA",
 
-            "prestige": "85",
+            "prestige": "80",
 
             "state": "Florida",
 
@@ -74,7 +74,7 @@
 
             "abbreviation": "LSU",
 
-            "prestige": "80",
+            "prestige": "90",
 
             "state": "Louisiana",
 
@@ -122,7 +122,7 @@
 
             "abbreviation": "AUB",
 
-            "prestige": "85",
+            "prestige": "90",
 
             "state": "Alabama",
 
@@ -142,7 +142,7 @@
 
             "abbreviation": "OHI",
 
-            "prestige": "85",
+            "prestige": "95",
 
             "state": "Ohio",
 
@@ -154,7 +154,7 @@
 
             "abbreviation": "MIC",
 
-            "prestige": "85",
+            "prestige": "95",
 
             "state": "Michigan",
 
@@ -178,7 +178,7 @@
 
             "abbreviation": "WIS",
 
-            "prestige": "80",
+            "prestige": "75",
 
             "state": "Wisconsin",
 
@@ -190,7 +190,7 @@
 
             "abbreviation": "MIN",
 
-            "prestige": "70",
+            "prestige": "60",
 
             "state": "Minnesota",
 
@@ -238,7 +238,7 @@
 
             "abbreviation": "PSU",
 
-            "prestige": "85",
+            "prestige": "90",
 
             "state": "Pennsylvania",
 
@@ -250,7 +250,7 @@
 
             "abbreviation": "NEB",
 
-            "prestige": "75",
+            "prestige": "70",
 
             "state": "Nebraska",
 
@@ -270,7 +270,7 @@
 
             "abbreviation": "ND",
 
-            "prestige": "85",
+            "prestige": "80",
 
             "state": "Indiana",
 
@@ -294,7 +294,7 @@
 
             "abbreviation": "CLEM",
 
-            "prestige": "85",
+            "prestige": "95",
 
             "state": "South Carolina",
 
@@ -342,7 +342,7 @@
       
       "abreviation": "LOUIS",
       
-      "presitge": "80",
+      "presitge": "75",
       
       "state": "Kentucky",
       
@@ -374,15 +374,15 @@
 
         }, {
 
-            "name": "Louiville",
+            "name": "Flordia St",
 
-            "abbreviation": "LOUIS",
+            "abbreviation": "FSU",
 
             "prestige": "80",
 
-            "state": "Kentucky",
+            "state": "Flordia St",
 
-            "rival": "FSU"
+            "rival": "PIT"
 
         }]
 
@@ -574,7 +574,7 @@
 
             "abbreviation": "WAS",
 
-            "prestige": "80",
+            "prestige": "90",
 
             "state": "Washington",
 
@@ -598,7 +598,7 @@
 
             "abbreviation": "STAN",
 
-            "prestige": "85",
+            "prestige": "80",
 
             "state": "California",
 
@@ -622,7 +622,7 @@
 
             "abbreviation": "UC",
 
-            "prestige": "60",
+            "prestige": "80",
 
             "state": "Colorado",
 
@@ -634,7 +634,7 @@
 
             "abbreviation": "WSU",
 
-            "prestige": "85",
+            "prestige": "90",
 
             "state": "Washington",
 
