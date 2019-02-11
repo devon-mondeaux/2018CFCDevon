@@ -38,7 +38,7 @@
 
             "abbreviation": "FLA",
 
-            "prestige": "85",
+            "prestige": "80",
 
             "state": "Florida",
 
@@ -50,7 +50,7 @@
 
             "abbreviation": "TEN",
 
-            "prestige": "80",
+            "prestige": "70",
 
             "state": "Tennessee",
 
@@ -142,7 +142,7 @@
 
             "abbreviation": "OHI",
 
-            "prestige": "85",
+            "prestige": "90",
 
             "state": "Ohio",
 
@@ -270,7 +270,7 @@
 
             "abbreviation": "ND",
 
-            "prestige": "85",
+            "prestige": "80",
 
             "state": "Indiana",
 
@@ -294,7 +294,7 @@
 
             "abbreviation": "CLEM",
 
-            "prestige": "85",
+            "prestige": "95",
 
             "state": "South Carolina",
 
@@ -304,7 +304,7 @@
 
             "name": "Miami",
       
-      "abbreviation": "MIAMI",
+      "abbreviation": "MIA",
       
       "prestige": "85",
       
@@ -342,7 +342,7 @@
       
       "abreviation": "LOUIS",
       
-      "presitge": "80",
+      "presitge": "70",
       
       "state": "Kentucky",
       
@@ -374,9 +374,9 @@
 
         }, {
 
-            "name": "Louiville",
+            "name": "Flordia State",
 
-            "abbreviation": "LOUIS",
+            "abbreviation": "FSU",
 
             "prestige": "80",
 
@@ -434,7 +434,7 @@
 
             "abbreviation": "TCU",
 
-            "prestige": "80",
+            "prestige": "70",
 
             "state": "Texas",
 
@@ -458,7 +458,7 @@
 
             "abbreviation": "OKS",
 
-            "prestige": "75",
+            "prestige": "70",
 
             "state": "Oklahoma",
 
@@ -470,7 +470,7 @@
 
             "abbreviation": "KSU",
 
-            "prestige": "75",
+            "prestige": "70",
 
             "state": "Kansas",
 
@@ -610,7 +610,7 @@
 
             "abbreviation": "UOFU",
 
-            "prestige": "99",
+            "prestige": "80",
 
             "state": "Utah",
 
