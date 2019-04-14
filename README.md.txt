@@ -875,14 +875,14 @@
           "rival" : "STAN"
         },
         {
-          "abbreviation" : "ORST",
-          "state" : "Oregon",
-          "prestige" : "62",
+          "abbreviation" : "Utah",
+          "state" : "Utah",
+          "prestige" : "85",
           "name" : "Oregon St",
           "headCoach" : {
             "ratOff" : "56",
             "contractLength" : "6",
-            "age" : "53",
+            "age" : "23",
             "startYear" : "2019",
             "cumulativePrestige" : "25",
             "ratDef" : "67",
@@ -1685,10 +1685,10 @@
           "rival" : "UTAH"
         },
         {
-          "abbreviation" : "UTAH",
-          "state" : "Utah",
+          "abbreviation" : "Oregon State",
+          "state" : "Oregon",
           "prestige" : "60",
-          "name" : "Utah",
+          "name" : "Oregon State",
           "headCoach" : {
             "ratOff" : "71",
             "contractLength" : "6",
